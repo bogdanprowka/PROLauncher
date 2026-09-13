@@ -1,4 +1,4 @@
 Самый простой лаунчер который только можно придумать.
 Рекламы нет, никакой воды, только майнкрафт.
-Скачать последнюю версию можно [на странице релизов.]([url](https://github.com/bogdanprowka/PROLauncher/releases))
+Скачать последнюю версию можно на странице релизов - https://github.com/bogdanprowka/PROLauncher/releases
 Телеграмм канал лаунчера - https://t.me/PROLauncher0
